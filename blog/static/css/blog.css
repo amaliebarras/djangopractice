@@ -6,6 +6,12 @@ body {
     color: #FFFFFF;
 }
 
+.post {
+    font-family: 'Myriad Pro';
+    background-color: #FE4F00;
+    color: #FFFFFF;
+}
+
 h1 a {
     color: #FFFFFF;
 }
