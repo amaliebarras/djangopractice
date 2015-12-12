@@ -3,6 +3,10 @@
 ## Tutorial - Building a blog with Django
 http://tutorial.djangogirls.org/en/django_start_project/index.html
 
+## Next Steps
+Create model field for image
+https://docs.djangoproject.com/en/1.9/ref/models/fields/#imagefield
+
 
 ## Screenshot
 
